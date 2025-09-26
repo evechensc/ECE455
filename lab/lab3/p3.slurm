@@ -7,4 +7,4 @@
 
 cd $SLURM_SUBMIT_DIR
 g++ -fopenmp parallel_sum_timing.cpp -o parallel_sum_timing 
-./parallel_sum_timings
+./parallel_sum_timing
